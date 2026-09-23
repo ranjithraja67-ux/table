@@ -1,16 +1,16 @@
-
-th{
-    color: red;
-    background-color: rgb(81, 35, 121);
-padding-bottom: 5px;
-padding-top: 5px;
-}
 table{
     margin-top: 25%;
     border-collapse: collapse;
     height: auto;
     width: 100%;
 }
+th{
+    color: red;
+    background-color: rgb(81, 35, 121);
+padding-bottom: 5px;
+padding-top: 5px;
+}
+
 td{
 text-align: center;
 padding: 5px;
